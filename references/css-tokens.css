@@ -1,0 +1,140 @@
+@font-face {
+  font-family: "Libre Franklin";
+  src: url("../fonts/libre-franklin/libre-franklin-400.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libre Franklin";
+  src: url("../fonts/libre-franklin/libre-franklin-400-italic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libre Franklin";
+  src: url("../fonts/libre-franklin/libre-franklin-600.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Libre Franklin";
+  src: url("../fonts/libre-franklin/libre-franklin-700.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+:root {
+  --beaumont-red: #b31f26;
+  --beaumont-tan: #fce5c8;
+  --beaumont-brown: #7f5538;
+  --beaumont-black: #000009;
+
+  --beaumont-red-light: #d63444;
+  --beaumont-red-hover: #9a1b21;
+  --beaumont-grey: #6d6564;
+  --beaumont-grey-dark: #404040;
+  --beaumont-grey-light: #a4a4a4;
+  --beaumont-brown-dark: #5b3b24;
+  --beaumont-tan-dark: #e8c7a7;
+  --beaumont-white: #ffffff;
+
+  --beaumont-content: 620px;
+  --beaumont-wide: 1280px;
+  --beaumont-gap: 1.2rem;
+  --beaumont-space-10: 1rem;
+  --beaumont-space-20: min(1.5rem, 2vw);
+  --beaumont-space-30: min(2.5rem, 3vw);
+  --beaumont-space-40: min(4rem, 5vw);
+  --beaumont-space-50: min(6.5rem, 8vw);
+  --beaumont-space-60: min(10.5rem, 13vw);
+  --beaumont-space-70: 3.38rem;
+  --beaumont-space-80: 5.06rem;
+
+  --beaumont-radius-button: 0.33rem;
+  --beaumont-radius-card: 1.25rem;
+}
+
+body {
+  margin: 0;
+  color: var(--beaumont-grey-dark);
+  background-color: var(--beaumont-white);
+  background-image: url("../backgrounds/etch-bg-white2.webp");
+  background-position: 0 0;
+  background-size: 720px;
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.55;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--beaumont-grey-dark);
+  font-family: "Libre Franklin", sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: clamp(2.5rem, 2.5rem + ((1vw - 0.2rem) * 1.283), 3.27rem);
+  line-height: 1.15;
+}
+
+h2 { font-size: clamp(1.85rem, 1.85rem + ((1vw - 0.2rem) * 1.083), 2.5rem); }
+h3 { font-size: clamp(1.125rem, 1.125rem + ((1vw - 0.2rem) * 0.625), 1.5rem); }
+h4 { font-size: clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem); }
+h5 { font-size: 1.05rem; }
+h6 { font-size: 0.9rem; }
+
+a {
+  color: var(--beaumont-red);
+  text-decoration: none;
+}
+
+a:hover { color: var(--beaumont-red-hover); }
+
+.beaumont-button {
+  display: inline-flex;
+  justify-content: center;
+  color: var(--beaumont-white);
+  background: var(--beaumont-red);
+  border: 0;
+  border-radius: var(--beaumont-radius-button);
+  padding: 0.6rem 2.5rem;
+  font: 600 1.05rem/1.55 "Libre Franklin", sans-serif;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.beaumont-button:hover {
+  color: var(--beaumont-white);
+  background: var(--beaumont-red-hover);
+}
+
+.beaumont-button:focus-visible {
+  color: var(--beaumont-tan);
+  background: var(--beaumont-grey-dark);
+  outline: 2px solid var(--beaumont-black);
+  outline-offset: 2px;
+}
+
+.beaumont-button:active {
+  color: var(--beaumont-tan);
+  background: var(--beaumont-black);
+}
+
+@media (max-width: 430px) {
+  .beaumont-button { width: 100%; }
+}

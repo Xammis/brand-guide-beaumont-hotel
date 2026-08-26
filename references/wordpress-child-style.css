@@ -1,0 +1,147 @@
+/*
+Theme Name: Beaumont Hotel - 2024 Child Theme
+Theme URI:
+Author: Ty Richards @ Xammis
+Author URI:
+Description: This is a child theme of Twenty Twenty-Four
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 5.7
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: twentytwentyfour
+Text Domain: beaumont-hotel-2024-child-theme
+Tags:
+*/
+
+/************************* Global Styles *************************/
+
+body .display-none { display: none; }
+
+.color-red { color: red; }
+
+body .wp-block-button__link.wp-element-button:hover { background-color: #9a1b21; }
+
+body .wp-block-button.is-style-outline:hover { background: #7f5538; }
+
+@media screen and (max-width: 430px) {
+
+	body .wp-block-button {
+		flex-basis: 100%; width: 100%;
+	}
+
+	body .wp-block-buttons .wp-block-button__link,
+	body .wp-block-button__link {
+		width: 100%;
+	}
+
+}
+
+.wp-block-gallery figure figcaption.wp-element-caption { display: none; }
+
+/* utilities */
+
+/* .overflow-visible { overflow: visible !important; } */
+
+
+/* .decoration-none,
+.decoration-none a {
+	text-decoration: none!important;
+}
+
+.wp-block-details a {
+	text-decoration: underline;
+} */
+
+/* Header Styles */
+
+/* .is-style-asterisk:before { background: #A2CD3A; } */
+
+/* Mega Menu */
+
+/* button.wp-block-outermost-mega-menu__toggle { transition: none!important; } */
+/* button.wp-block-outermost-mega-menu__toggle:hover { color: #f5824e!important; }
+
+.wp-block-outermost-mega-menu button.menu-container__close-button { display: none; } */
+
+
+
+
+/* Icons */
+
+.icon-margin-right { margin-right: 10px; }
+.icon-margin-left { margin-left: 10px; }
+
+.margin-top-none { margin-top: 0; }
+.margin-right-none { margin-right: 0; }
+.margin-bottom-none { margin-bottom: 0; }
+.margin-left-none { margin-left: 0; }
+
+/* body blockquote {
+	margin-inline-start: 0;
+	margin-inline-end: 0;
+}
+
+body footer.wp-block-template-part { margin-top: 0; } */
+
+/* body .wp-block-heading { color: #ffffff!important; }  */
+
+
+/************************* Responsive Mobile Menu *************************/
+
+/* .rmp-container .wp-block-buttons-resp-menu .wp-block-button {
+	background-color: #A2CD3A;
+	padding: 8px 10px 8px 10px;
+	border-radius: 5px;
+	width: 100% !important;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	font-weight: bold;
+}
+
+.rmp-container .wp-block-buttons-resp-menu .wp-block-button a { color: black; }
+
+.rmp-container .wp-block-buttons-resp-menu .wp-block-button.is-style-outline {
+	border: 2px solid #e9e9e9;
+	background-color: transparent;
+}
+
+.rmp-container .wp-block-buttons-resp-menu .wp-block-button.is-style-outline a { color: #e9e9e9; } */
+
+/* end */
+
+/************************* Responsive Typography Sizes **********************/
+
+/* p {} */
+/* body h1 { font-size: clamp(1.6rem, 0.031rem + 4.048vw, 3.27rem); } /* 2.1 Rem */ */
+/* body h2 { font-size: clamp(1.6rem, 0.031rem + 4.048vw, 3.27rem); } */
+/* body h3 { font-size: clamp(1.6rem, 0.031rem + 4.048vw, 3.27rem); } */
+/* body h4 { font-size: clamp(1.6rem, 0.031rem + 4.048vw, 3.27rem); } */
+/* body h5 { font-size: clamp(1.6rem, 0.031rem + 4.048vw, 3.27rem); } */
+/* body h6 { font-size: clamp(1.6rem, 0.031rem + 4.048vw, 3.27rem); } */
+
+/************************* Responsive Media Queries *************************/
+
+/* Desktop Only */
+@media screen and (min-width: 1025px) {
+
+
+}
+
+/* Mobile & Tablet (Nav Breakpoint) */
+@media screen and (max-width: 1024px) {
+
+}
+
+/* Mobile  Only */
+@media screen and (max-width: 430px) {
+
+
+}
+
+/* Tablet Only */
+
+@media screen and (min-width:430px) and (max-width:767px) {
+
+}

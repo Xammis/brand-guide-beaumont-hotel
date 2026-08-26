@@ -1,0 +1,217 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#fce5c8",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#e8c7a7",
+					"name": "Base / Two",
+					"slug": "base-2"
+				},
+				{
+					"color": "#000009",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#404040",
+					"name": "Contrast / Two",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#A4A4A4",
+					"name": "Contrast / Three",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#b31f26",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#d63444",
+					"name": "Accent / Two",
+					"slug": "accent-2"
+				},
+				{
+					"color": "#7f5538",
+					"name": "Accent / Three",
+					"slug": "accent-3"
+				},
+				{
+					"color": "#5b3b24",
+					"name": "Accent / Four",
+					"slug": "accent-4"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Accent / Five",
+					"slug": "accent-5"
+				}
+			]
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RNDJTedX1sGE.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKUAtrIb-JH1g.woff2"
+							]
+						},
+						{
+							"fontFamily": "\"Libre Franklin\"",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKUAtrIb-JH1g.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Libre Franklin\", sans-serif",
+					"name": "Libre Franklin",
+					"slug": "libre-franklin"
+				}
+			]
+		}
+	},
+	"styles": {
+		"background": {
+			"backgroundImage": {
+				"id": 1630,
+				"source": "file",
+				"title": "etch-bg-white2",
+				"url": "https://beaumonthotel.wpenginepowered.com/wp-content/uploads/2024/04/etch-bg-white2.webp"
+			},
+			"backgroundPosition": "0% 0%",
+			"backgroundSize": "720px"
+		},
+		"blocks": {
+			"core/button": {
+				"color": {
+					"background": "var(--wp--preset--color--accent)",
+					"text": "var(--wp--preset--color--accent-5)"
+				},
+				"elements": {
+					"link": {
+						"color": {
+							"text": "var(--wp--preset--color--accent-5)"
+						}
+					}
+				},
+				"spacing": {
+					"padding": {
+						"left": "var(--wp--preset--spacing--30)",
+						"right": "var(--wp--preset--spacing--30)"
+					}
+				},
+				"typography": {
+					"textTransform": "uppercase"
+				},
+				"variations": {
+					"outline": {
+						"border": {
+							"bottom": {
+								"color": "currentColor",
+								"style": "solid",
+								"width": "2px"
+							},
+							"left": {
+								"color": "currentColor",
+								"style": "solid",
+								"width": "2px"
+							},
+							"right": {
+								"color": "currentColor",
+								"style": "solid",
+								"width": "2px"
+							},
+							"top": {
+								"color": "currentColor",
+								"style": "solid",
+								"width": "2px"
+							}
+						},
+						"spacing": {
+							"padding": {
+								"bottom": "0.45rem",
+								"left": "calc(1rem - 1px)",
+								"right": "calc(1rem - 1px)",
+								"top": "0.45rem"
+							}
+						}
+					}
+				}
+			},
+			"core/calendar": {
+				"css": " .wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast)} & table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast)} .wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast)} & table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast)} .wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast)} & table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast)} .wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast)} & table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast)}"
+			},
+			"core/post-terms": {
+				"css": " & .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast);} & .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast);} & .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast);} & .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast);}"
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--accent-5)",
+			"text": "var(--wp--preset--color--contrast-2)"
+		},
+		"css": "",
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--accent)",
+					"text": "var(--wp--preset--color--accent-5)"
+				},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontStyle": "normal",
+					"fontWeight": "600",
+					"letterSpacing": "1px",
+					"textTransform": "uppercase"
+				}
+			},
+			"heading": {
+				"color": {
+					"text": "var(--wp--preset--color--contrast-2)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--libre-franklin)",
+					"fontStyle": "normal",
+					"fontWeight": "600"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--contrast-2)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--libre-franklin)"
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json"
+}

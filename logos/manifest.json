@@ -1,0 +1,552 @@
+{
+  "version": 1,
+  "source": "Official Beaumont Hotel Dropbox logo collection",
+  "files": [
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-Black-Horiz.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-black-horiz.png",
+      "bytes": 59074,
+      "sha256": "3d74813b8a529a22c58e3b93ded8e1ec7a9d7a4d577083e3a13f0648523cd994"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-Black-Vert.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-black-vert.png",
+      "bytes": 153925,
+      "sha256": "b485d11165bedabaa71d68386c54e34998bd53c5c08e897d9d5d04c44abae6cc"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-Brown-Vert.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-brown-vert.png",
+      "bytes": 160474,
+      "sha256": "6525f52319236dcade290c3d8b31d255f0aa5d7553bf52310b3cb191f4d64b84"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-FullColor-ForDarkBackground-Horiz.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-full-color-for-dark-background-horiz.png",
+      "bytes": 69857,
+      "sha256": "86b7b8527f92c7ec86fda1a900008fac5dc7424651364d19f47ae0e90c79e421"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-FullColor-ForDarkBackground-Vert.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-full-color-for-dark-background-vert.png",
+      "bytes": 176885,
+      "sha256": "21b36b227d96c9c2f7665d872ec83efad797913c9d22e098df4a6bb168c76e1f"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-Red-Vert.jpg",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-red-vert.jpg",
+      "bytes": 273841,
+      "sha256": "4de1ac6aee3cc7f25b7bfd67d7d4a054f7c31ff4ae99a81c8b1edfb6c6be4d0c"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-Red-Vert.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-red-vert.png",
+      "bytes": 159486,
+      "sha256": "507bc05f08f13d6d8e1967a3baa193e39cc10c948cb5a5d9e2941118baae9786"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-Tan-Vert.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-tan-vert.png",
+      "bytes": 159387,
+      "sha256": "5b8a3eb72c5b25d6b515f96e0be77e016b92910f19520a4b1ceb44b118875d60"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-White-Horiz.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-white-horiz.png",
+      "bytes": 60311,
+      "sha256": "025879355b0b3666b444220a029a02d4ffdcccb69d2a4c109c4177826442d9be"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-Digital-White-Vert.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-logo-digital-white-vert.png",
+      "bytes": 157172,
+      "sha256": "a0f082a15ffc78d2a491f82b3a879c45eabe200d78d5970fe2cf1af6b92e8096"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-MainLogo-Digital-FullColor-ForLightBackground-Vert-TransparentB.png",
+      "path": "logos/digital/beaumont-hotel/alternates/beaumont-hotel-main-logo-digital-full-color-for-light-background-vert-transparent-b.png",
+      "bytes": 159156,
+      "sha256": "2a14d4120d28c520e3572c519734bdf8da869233c85bb63ef7e9fe03f5ba8de7"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Beaumont-Hotel-MainLogo-Digital-FullColor-ForLightBackground-Horiz.png",
+      "path": "logos/digital/beaumont-hotel/beaumont-hotel-main-logo-digital-full-color-for-light-background-horiz.png",
+      "bytes": 67284,
+      "sha256": "a76a81cca33d09dfc6ce365218bcbd42d43d3693b0ca10fe5740fd9227a28c04"
+    },
+    {
+      "source": "Logos - Digital/1 - Beaumont Hotel/Beaumont-Hotel-MainLogo-Digital-FullColor-ForLightBackground-Vert.png",
+      "path": "logos/digital/beaumont-hotel/beaumont-hotel-main-logo-digital-full-color-for-light-background-vert.png",
+      "bytes": 173243,
+      "sha256": "27796d10380be883f440c9c29684ab5854657f655a639bcbef365457877c9c0b"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-Black-Horiz.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-black-horiz.png",
+      "bytes": 64616,
+      "sha256": "8005925a41e96ba61d0b0680a6ce33fb6b11bc9c3fbdde75d447a7ebf0049d4b"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-Black-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-black-vert.png",
+      "bytes": 161344,
+      "sha256": "b27b22c4f855ea80cffd58eddfde3ca146dfb8b0959103c5580f2516cf5274c3"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-Brown-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-brown-vert.png",
+      "bytes": 167700,
+      "sha256": "ee4d1a14b5312a5580c0f4efd42e69cdaf86d2d12d9d37b941bc31da1f30823a"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-FullColor-ForDarkBackground-Horiz.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-full-color-for-dark-background-horiz.png",
+      "bytes": 75987,
+      "sha256": "7df12844135a38ecac834314cea0a71f9d8767e7446f6e6006bda2a8961f2e0f"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-FullColor-ForDarkBackground-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-full-color-for-dark-background-vert.png",
+      "bytes": 184779,
+      "sha256": "8939c9097fdf51b7207c5d36eb7516af7714e095f6dee874ebf0964111714497"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-Red-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-red-vert.png",
+      "bytes": 167224,
+      "sha256": "619c05b4c1b20f963bd04d453334b243d4202a78910d8c0628c0f419bec7aba6"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-Tan-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-tan-vert.png",
+      "bytes": 167108,
+      "sha256": "92d0733e0b04fe9ba2a5bd11cb4c3036ee211aafcfbc6b9c56d7437b4f1619c2"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-White-Horiz.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-white-horiz.png",
+      "bytes": 65663,
+      "sha256": "2fbb1440204e965471a4043f455d81190b72b917ce1b56af69c40af6bc68b673"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-Digital-White-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-digital-white-vert.png",
+      "bytes": 164758,
+      "sha256": "424104bd626700e5852c795677e6e4267a8c27ee8705036d05b5122470e78caa"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-MainLogo-Digital-FullColor-ForLightBackground-Vert-TransparentB.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-main-logo-digital-full-color-for-light-background-vert-transparent-b.png",
+      "bytes": 166467,
+      "sha256": "8c979d9ef6793e7e5acffcecea3b2fa7c057d0ca7fbb0838cf34818d4bcb7a4c"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Beaumont-HotelSpaEvents-MainLogo-Digital-FullColor-ForLightBackground-Horiz.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/beaumont-hotel-spa-events-main-logo-digital-full-color-for-light-background-horiz.png",
+      "bytes": 73014,
+      "sha256": "8dfe9ea4a73f461aea1596bad796eab145e1aa16155bea8956355fce4d6d96cb"
+    },
+    {
+      "source": "Logos - Digital/2 - Beamont Hotel-Spa-Events/Beaumont-HotelSpaEvents-MainLogo-Digital-FullColor-ForLightBackground-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events/beaumont-hotel-spa-events-main-logo-digital-full-color-for-light-background-vert.png",
+      "bytes": 180258,
+      "sha256": "87ee6b5e3f32fc369ceec3bf411b950d3861997506b97bfcd182788094462bfd"
+    },
+    {
+      "source": "Logos - Digital/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-Digital-Black.png",
+      "path": "logos/digital/beaumont-symbol/alternates/beaumont-symbol-digital-black.png",
+      "bytes": 143777,
+      "sha256": "4436e98d2ea8513e478ca489a7bc6ba6dd0c544aa7c2a6abd868ae9b2511ac82"
+    },
+    {
+      "source": "Logos - Digital/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-Digital-FullColor-ForDarkBackground.png",
+      "path": "logos/digital/beaumont-symbol/alternates/beaumont-symbol-digital-full-color-for-dark-background.png",
+      "bytes": 167943,
+      "sha256": "cdf63f5e6acb230f9e5dde71ad3375640096509dd5070a070a882525ee2e2e76"
+    },
+    {
+      "source": "Logos - Digital/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-Digital-FullColor-ForLightBackground-TransparentB.png",
+      "path": "logos/digital/beaumont-symbol/alternates/beaumont-symbol-digital-full-color-for-light-background-transparent-b.png",
+      "bytes": 149327,
+      "sha256": "d7a8ad15e78f6739ebb6cc18ba00d23f51d7dd59b465fa47d5a446a60dc7f063"
+    },
+    {
+      "source": "Logos - Digital/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-Digital-Tan.png",
+      "path": "logos/digital/beaumont-symbol/alternates/beaumont-symbol-digital-tan.png",
+      "bytes": 147960,
+      "sha256": "f14b1d0f2187e525239024d3a969d9832c073af20d285c9f1a327ba044ee8991"
+    },
+    {
+      "source": "Logos - Digital/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-Digital-White.png",
+      "path": "logos/digital/beaumont-symbol/alternates/beaumont-symbol-digital-white.png",
+      "bytes": 142246,
+      "sha256": "1093b88528e6a5b656155fadbf9fe7828a422c5f3cbc3fdab09c922003e5110a"
+    },
+    {
+      "source": "Logos - Digital/3 - Beaumont Symbol/Beaumont-Symbol-MainLogo-Digital-FullColor-ForLightBackground.png",
+      "path": "logos/digital/beaumont-symbol/beaumont-symbol-main-logo-digital-full-color-for-light-background.png",
+      "bytes": 164736,
+      "sha256": "eb9a55aa5b5091fd82e6a3b00c92c43dd165ee71f4dba63ac6132cdaa8d029d6"
+    },
+    {
+      "source": "Logos - Digital/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-Digital-Black.png",
+      "path": "logos/digital/roosevelts-tavern/alternates/roosevelts-tavern-logo-digital-black.png",
+      "bytes": 120961,
+      "sha256": "05daafbbef9030e9a7b985c6a549ecb37f743ffac01b56e0806174385cf17e8f"
+    },
+    {
+      "source": "Logos - Digital/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-Digital-ForDarkBackground.png",
+      "path": "logos/digital/roosevelts-tavern/alternates/roosevelts-tavern-logo-digital-for-dark-background.png",
+      "bytes": 122751,
+      "sha256": "b3897213b10762a775bb4d8638f98a554f15af91ff3dc70a6273420a22391db9"
+    },
+    {
+      "source": "Logos - Digital/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-Digital-Red.png",
+      "path": "logos/digital/roosevelts-tavern/alternates/roosevelts-tavern-logo-digital-red.png",
+      "bytes": 122934,
+      "sha256": "b919df6c9a35ee70196a53117bf22201870a68f70968025ce34f665696e92c91"
+    },
+    {
+      "source": "Logos - Digital/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-Digital-White.png",
+      "path": "logos/digital/roosevelts-tavern/alternates/roosevelts-tavern-logo-digital-white.png",
+      "bytes": 119201,
+      "sha256": "a93d50183043267381c1931f15b8af30d96972ae348cbe42c9b566e5edbc6b7e"
+    },
+    {
+      "source": "Logos - Digital/4 - Roosevelt's Tavern/Roosevelt'sTavern-MainLogo-Digital-Brown-ForLightBackground.png",
+      "path": "logos/digital/roosevelts-tavern/roosevelts-tavern-main-logo-digital-brown-for-light-background.png",
+      "bytes": 124183,
+      "sha256": "54545c1cebd46a9a9722a53cb870e0a205abe4f9e853b725148432ad163a6800"
+    },
+    {
+      "source": "Logos - Digital/5 - 1886 Coffee/1886Coffee-Digital-Brown.png",
+      "path": "logos/digital/1886-coffee/1886-coffee-digital-brown.png",
+      "bytes": 188269,
+      "sha256": "44989d1775bcce109ba19a34f5440c866470da78a9b895640c4c90e7daa261ed"
+    },
+    {
+      "source": "Logos - Digital/5 - 1886 Coffee/1886Coffee-MainLogo-Digital-FullColor-ForLightBackground.png",
+      "path": "logos/digital/1886-coffee/1886-coffee-main-logo-digital-full-color-for-light-background.png",
+      "bytes": 265469,
+      "sha256": "a8dcd5bdef290c04c810b0ea22f4236992b60e2312de06e5c96a54a0b8dfb03c"
+    },
+    {
+      "source": "Logos - Digital/5 - 1886 Coffee/Alternates/1886Coffee-Digital-Black.png",
+      "path": "logos/digital/1886-coffee/alternates/1886-coffee-digital-black.png",
+      "bytes": 180970,
+      "sha256": "2596b3e5c323a7ad88ec5c37b47b869225e329dd4662a102ccd4a8eea7316715"
+    },
+    {
+      "source": "Logos - Digital/5 - 1886 Coffee/Alternates/1886Coffee-Digital-Red.png",
+      "path": "logos/digital/1886-coffee/alternates/1886-coffee-digital-red.png",
+      "bytes": 188064,
+      "sha256": "1a2fca9c47dda75162246c00dcb93af6a0dc9392ef19bfdab0ac11bc512a7445"
+    },
+    {
+      "source": "Logos - Digital/5 - 1886 Coffee/Alternates/1886Coffee-Digital-Tan.png",
+      "path": "logos/digital/1886-coffee/alternates/1886-coffee-digital-tan.png",
+      "bytes": 187619,
+      "sha256": "ad2a071f20d0a06c99d125bd0778777acac49ab536e15be743b61ad1c383e8d2"
+    },
+    {
+      "source": "Logos - Digital/5 - 1886 Coffee/Alternates/1886Coffee-Digital-White.png",
+      "path": "logos/digital/1886-coffee/alternates/1886-coffee-digital-white.png",
+      "bytes": 184220,
+      "sha256": "ac391096696797711286dfd11927fe3040d4a742e5e18f5d00c85fccefe40104"
+    },
+    {
+      "source": "Logos - Digital/6 - Extra Spa & Events logos/Events-AtTheBeaumont-Logo-Digital.png",
+      "path": "logos/digital/spa-and-events/events-at-the-beaumont-logo-digital.png",
+      "bytes": 34101,
+      "sha256": "f87b3a14ec5cba2aefb1bdf777701e306b434907b800a558daaba1873c5a5b14"
+    },
+    {
+      "source": "Logos - Digital/6 - Extra Spa & Events logos/Spa-AtTheBeaumont-Logo-Digital.png",
+      "path": "logos/digital/spa-and-events/spa-at-the-beaumont-logo-digital.png",
+      "bytes": 53624,
+      "sha256": "a68b40621edb41c69f04dd2d7f4806cdff9acded95d45b715bcbec5b9950f705"
+    },
+    {
+      "source": "Logos - Digital/Beaumont-Hotel-MainLogo-Digital-FullColor-ForLightBackground-Vert.png",
+      "path": "logos/digital/beaumont-hotel-main-logo-digital-full-color-for-light-background-vert.png",
+      "bytes": 173243,
+      "sha256": "27796d10380be883f440c9c29684ab5854657f655a639bcbef365457877c9c0b"
+    },
+    {
+      "source": "Logos - Digital/Beaumont-HotelSpaEvents-MainLogo-Digital-FullColor-ForLightBackground-Vert.png",
+      "path": "logos/digital/beaumont-hotel-spa-events-main-logo-digital-full-color-for-light-background-vert.png",
+      "bytes": 180258,
+      "sha256": "87ee6b5e3f32fc369ceec3bf411b950d3861997506b97bfcd182788094462bfd"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-Black-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-black-horiz.pdf",
+      "bytes": 62527,
+      "sha256": "52c5383feee46de1582eaeecaf102f9a49f728b3c90cc0df956befc94975932a"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-Black-Vert.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-black-vert.pdf",
+      "bytes": 62880,
+      "sha256": "eaea89e4a3c74d16e242c5ca7233fc16d8cacddae7d50751ec5b64e82c96809f"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-Brown-Vert.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-brown-vert.pdf",
+      "bytes": 62888,
+      "sha256": "49080fd36a9e1cccf73f3fb0363c162344b3938c8a34b021d01ffa10aaa3e1d0"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-FullColor-ForDarkBackground-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-full-color-for-dark-background-horiz.pdf",
+      "bytes": 62641,
+      "sha256": "9c2fd25cff3f0c799dba64e82cdd88099ade7ed2fa3ab7f18b851780945fa084"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-FullColor-ForDarkBackground-Vert.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-full-color-for-dark-background-vert.pdf",
+      "bytes": 62985,
+      "sha256": "f2d8c53a8882587a978ff83fcb5114d09f94ade38695ed94471c5b633aa30541"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-Red-Vert.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-red-vert.pdf",
+      "bytes": 62885,
+      "sha256": "262f04bc600b83731aaf628f7074c45e2be0bb9f6d1453194db433380b8a26e6"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-Tan-Vert.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-tan-vert.pdf",
+      "bytes": 62888,
+      "sha256": "5115977dc1e043d9320e08ac9d66b44bc60e486ab772e7bab0dc2edea2f80d32"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-White-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-white-horiz.pdf",
+      "bytes": 77133,
+      "sha256": "13adb606c507b16e768bd9e5de1a9598bdfe30c310cabaa6d3855c65d97c7389"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-Logo-HiRes-White-Vert.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-logo-hi-res-white-vert.pdf",
+      "bytes": 77328,
+      "sha256": "87167e26df58ea57d4a907e6d1814fb1c198d3b8d0e72d8ed0782d86b67633e7"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Alternates/Beaumont-Hotel-MainLogo-HiRes-FullColor-ForLightBackground-Vert-TransparentB.pdf",
+      "path": "logos/print/beaumont-hotel/alternates/beaumont-hotel-main-logo-hi-res-full-color-for-light-background-vert-transparent-b.pdf",
+      "bytes": 62905,
+      "sha256": "b81b9422ec8944d52ca0e421715f8abbec96a1651018b5f5c0d633a9b33aae41"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Beaumont-Hotel-MainLogo-HiRes-FullColor-ForLightBackground-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel/beaumont-hotel-main-logo-hi-res-full-color-for-light-background-horiz.pdf",
+      "bytes": 62645,
+      "sha256": "e1163cec13b37a0f1441a2c9ccbf25480db1d32f9a1d5ce231bf5b77784dea75"
+    },
+    {
+      "source": "Logos - Hi-Res Print/1 - Beaumont Hotel/Beaumont-Hotel-MainLogo-HiRes-FullColor-ForLightBackground-Vert.pdf",
+      "path": "logos/print/beaumont-hotel/beaumont-hotel-main-logo-hi-res-full-color-for-light-background-vert.pdf",
+      "bytes": 62935,
+      "sha256": "3603cacbbef535a5ab14709a77882898344e594cceb10da9922cd22eeb5ba05a"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-Black-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-black-horiz.pdf",
+      "bytes": 63604,
+      "sha256": "72d8bdaf013c536a17a8b52156a8334d890713daaa554fcdd1182686c4d9384f"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-Black-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-black-vert.pdf",
+      "bytes": 63859,
+      "sha256": "be97fc2eaa65e2202d294ce243a124e0bfa58739c3586bb078ff5a1bcbba2149"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-Brown-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-brown-vert.pdf",
+      "bytes": 63867,
+      "sha256": "eec70026d1bbee7d85fef41907c5c8de9f221c3e9cf42dff634127c5b0738afa"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-FullColor-ForDarkBackground-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-full-color-for-dark-background-horiz.pdf",
+      "bytes": 63698,
+      "sha256": "bf013b380e58ac6eca307ac980cd96dce2975c8467d6be179a3e3183259cf9c0"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-FullColor-ForDarkBackground-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-full-color-for-dark-background-vert.pdf",
+      "bytes": 63951,
+      "sha256": "47a4789ee3fba23139fb5a99eebf2b0d5aa46425a42937e6de88c15653bd3214"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-Red-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-red-vert.pdf",
+      "bytes": 63864,
+      "sha256": "ae9dc1c702f4a5446cdb7ff0064f895fe72ca2e0df33fa7e428fab59f2583b62"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-Tan-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-tan-vert.pdf",
+      "bytes": 63935,
+      "sha256": "4438c9ba40a2e05620bdce65480922fcd38e93b8c75c1c9cb9af88d612facb01"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-White-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-white-horiz.pdf",
+      "bytes": 80571,
+      "sha256": "cea57b5a83ce1c9563d1a5b2b1cfa7f4d15b4cb7f17f52357a045489e5711cfe"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-Logo-HiRes-White-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-logo-hi-res-white-vert.pdf",
+      "bytes": 81226,
+      "sha256": "3a34df4bc6b50909af349f9fe8f07c92b736b6a334e6d0552347fea9b0286282"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Alternates/Beaumont-HotelSpaEvents-MainLogo-HiRes-FullColor-ForLightBackground-Vert-TransparentB.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/alternates/beaumont-hotel-spa-events-main-logo-hi-res-full-color-for-light-background-vert-transparent-b.pdf",
+      "bytes": 63886,
+      "sha256": "8334eb6f1ef9cec4309f1e777c65fda017b9d1749e4ee5ca1ee1b442cd092612"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Beaumont-HotelSpaEvents-MainLogo-HiRes-FullColor-ForLightBackground-Horiz.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/beaumont-hotel-spa-events-main-logo-hi-res-full-color-for-light-background-horiz.pdf",
+      "bytes": 63698,
+      "sha256": "fe06e9a93b4722114a9e228ff381828d3ca2436db1aa08b16a6712e0c056b12a"
+    },
+    {
+      "source": "Logos - Hi-Res Print/2 - Beamont Hotel-Spa-Events/Beaumont-HotelSpaEvents-MainLogo-HiRes-FullColor-ForLightBackground-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events/beaumont-hotel-spa-events-main-logo-hi-res-full-color-for-light-background-vert.pdf",
+      "bytes": 63973,
+      "sha256": "5b94b37bd8217c0b7a39665433ff4217ed175f60bff94e215e753f9ea0e1d842"
+    },
+    {
+      "source": "Logos - Hi-Res Print/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-HiRes-Black.pdf",
+      "path": "logos/print/beaumont-symbol/alternates/beaumont-symbol-hi-res-black.pdf",
+      "bytes": 61287,
+      "sha256": "2430c57266b3d61f3533309a1c0051e216fe3fe1ecc78d9049bac0b488384f1b"
+    },
+    {
+      "source": "Logos - Hi-Res Print/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-HiRes-FullColor-ForDarkBackground.pdf",
+      "path": "logos/print/beaumont-symbol/alternates/beaumont-symbol-hi-res-full-color-for-dark-background.pdf",
+      "bytes": 61341,
+      "sha256": "0fd8e1b2b9468d10fafc52ce8cd6d217b23f80f621c044015edfd858180394ab"
+    },
+    {
+      "source": "Logos - Hi-Res Print/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-HiRes-FullColor-ForLightBackground-TransparentB.pdf",
+      "path": "logos/print/beaumont-symbol/alternates/beaumont-symbol-hi-res-full-color-for-light-background-transparent-b.pdf",
+      "bytes": 61300,
+      "sha256": "d854b054c1570e14bac1c1f253edf3cc862bc5809cc72a282f4ee6c705b7f6ba"
+    },
+    {
+      "source": "Logos - Hi-Res Print/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-HiRes-Tan.pdf",
+      "path": "logos/print/beaumont-symbol/alternates/beaumont-symbol-hi-res-tan.pdf",
+      "bytes": 61266,
+      "sha256": "45b2e6e62f831f0f4cacb73fd527891a6ac1bc1ec2fc53417ba3e2a3d473e51e"
+    },
+    {
+      "source": "Logos - Hi-Res Print/3 - Beaumont Symbol/Alternates/Beaumont-Symbol-HiRes-White.pdf",
+      "path": "logos/print/beaumont-symbol/alternates/beaumont-symbol-hi-res-white.pdf",
+      "bytes": 61279,
+      "sha256": "947604186d08e6b87af6a58d73d70099b273bf26e8ec80ef95327fc60d93407b"
+    },
+    {
+      "source": "Logos - Hi-Res Print/3 - Beaumont Symbol/Beaumont-Symbol-HiRes-FullColor-ForDarkBackground.pdf",
+      "path": "logos/print/beaumont-symbol/beaumont-symbol-hi-res-full-color-for-dark-background.pdf",
+      "bytes": 61343,
+      "sha256": "1b72630af79bde995ed63b17891f7b1d1a4841a126fce7c414699c6e3738a259"
+    },
+    {
+      "source": "Logos - Hi-Res Print/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-HiRes-Black.pdf",
+      "path": "logos/print/roosevelts-tavern/alternates/roosevelts-tavern-logo-hi-res-black.pdf",
+      "bytes": 96577,
+      "sha256": "af1c29d0b3b86df64de583a62003f14ae6a8abb216b0d8ecb6bd6f653fee29ad"
+    },
+    {
+      "source": "Logos - Hi-Res Print/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-HiRes-ForDarkBackground.pdf",
+      "path": "logos/print/roosevelts-tavern/alternates/roosevelts-tavern-logo-hi-res-for-dark-background.pdf",
+      "bytes": 96636,
+      "sha256": "dfed09d20e1dcbcfe45e914a84bd4ecfb3444ba73b0fc998838e07aa6048b114"
+    },
+    {
+      "source": "Logos - Hi-Res Print/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-HiRes-Red.pdf",
+      "path": "logos/print/roosevelts-tavern/alternates/roosevelts-tavern-logo-hi-res-red.pdf",
+      "bytes": 96709,
+      "sha256": "7fa93869752ce6b19ba83285d5b89c3dc13f51a92dbf154613c66060ac57f6bf"
+    },
+    {
+      "source": "Logos - Hi-Res Print/4 - Roosevelt's Tavern/Alternates/Roosevelt'sTavern-Logo-HiRes-White.pdf",
+      "path": "logos/print/roosevelts-tavern/alternates/roosevelts-tavern-logo-hi-res-white.pdf",
+      "bytes": 451258,
+      "sha256": "828f9f5ef95b115b16dfe3ce16aa7bf91567fc8701cc7efb1171efdfc2dd0c42"
+    },
+    {
+      "source": "Logos - Hi-Res Print/4 - Roosevelt's Tavern/Roosevelt'sTavern-MainLogo-HiRes-Brown-ForLightBackground.pdf",
+      "path": "logos/print/roosevelts-tavern/roosevelts-tavern-main-logo-hi-res-brown-for-light-background.pdf",
+      "bytes": 96228,
+      "sha256": "1985106731e4dd40181a6c803802fd7a9cb6fab8e580cac474fa7499f607aefc"
+    },
+    {
+      "source": "Logos - Hi-Res Print/5 - 1886 Coffee/1886Coffee-HiRes-Brown.pdf",
+      "path": "logos/print/1886-coffee/1886-coffee-hi-res-brown.pdf",
+      "bytes": 67965,
+      "sha256": "0267d896258437ad68f2a4af20162b07f2ef90927b3fbd9032d80a8759a282e6"
+    },
+    {
+      "source": "Logos - Hi-Res Print/5 - 1886 Coffee/1886Coffee-MainLogo-HiRes-FullColor-ForLightBackground.pdf",
+      "path": "logos/print/1886-coffee/1886-coffee-main-logo-hi-res-full-color-for-light-background.pdf",
+      "bytes": 68483,
+      "sha256": "a0e2469be3d56716cf6cba2792bf87c6957e7b86bc4fcc5379be79a37ca6cb7d"
+    },
+    {
+      "source": "Logos - Hi-Res Print/5 - 1886 Coffee/Alternates/1886Coffee-HiRes-Black.pdf",
+      "path": "logos/print/1886-coffee/alternates/1886-coffee-hi-res-black.pdf",
+      "bytes": 67961,
+      "sha256": "77ae85b11afc0de0a2a18bd253acc2a9cddd736d0816d778579b101b35b502a2"
+    },
+    {
+      "source": "Logos - Hi-Res Print/5 - 1886 Coffee/Alternates/1886Coffee-HiRes-Red.pdf",
+      "path": "logos/print/1886-coffee/alternates/1886-coffee-hi-res-red.pdf",
+      "bytes": 67962,
+      "sha256": "34dd8d18338b62ef95ff5267ac8d4b292818d4fdfa6854aa4c932a6d68acc70c"
+    },
+    {
+      "source": "Logos - Hi-Res Print/5 - 1886 Coffee/Alternates/1886Coffee-HiRes-Tan.pdf",
+      "path": "logos/print/1886-coffee/alternates/1886-coffee-hi-res-tan.pdf",
+      "bytes": 67570,
+      "sha256": "32f79b871b03fad6e6ed419d7a4e2ec49d7c1b0643a422c57d7066cae97f2e67"
+    },
+    {
+      "source": "Logos - Hi-Res Print/5 - 1886 Coffee/Alternates/1886Coffee-HiRes-White.pdf",
+      "path": "logos/print/1886-coffee/alternates/1886-coffee-hi-res-white.pdf",
+      "bytes": 67958,
+      "sha256": "b856f4ba60cfb1d306ca0445696d705c60bc40134698c0ebfb7a7ac1d1c00077"
+    },
+    {
+      "source": "Logos - Hi-Res Print/6 - Extra Spa & Events logos/Events-AtTheBeaumont-Logo-HiRes.pdf",
+      "path": "logos/print/spa-and-events/events-at-the-beaumont-logo-hi-res.pdf",
+      "bytes": 53587,
+      "sha256": "fe57758c7beb099589586aa10fec3a4175f1e6d3c182fa3fbe1dbdf5590962d4"
+    },
+    {
+      "source": "Logos - Hi-Res Print/6 - Extra Spa & Events logos/Spa-AtTheBeaumont-Logo-HiRes.pdf",
+      "path": "logos/print/spa-and-events/spa-at-the-beaumont-logo-hi-res.pdf",
+      "bytes": 53611,
+      "sha256": "f21f828eef71e4383d155af674167d38b70fc5df5db3e8e8428fae152186f80e"
+    },
+    {
+      "source": "Logos - Hi-Res Print/Beaumont-Hotel-MainLogo-HiRes-FullColor-ForLightBackground-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-main-logo-hi-res-full-color-for-light-background-vert.pdf",
+      "bytes": 62935,
+      "sha256": "3603cacbbef535a5ab14709a77882898344e594cceb10da9922cd22eeb5ba05a"
+    },
+    {
+      "source": "Logos - Hi-Res Print/Beaumont-HotelSpaEvents-MainLogo-HiRes-FullColor-ForLightBackground-Vert.pdf",
+      "path": "logos/print/beaumont-hotel-spa-events-main-logo-hi-res-full-color-for-light-background-vert.pdf",
+      "bytes": 63973,
+      "sha256": "5b94b37bd8217c0b7a39665433ff4217ed175f60bff94e215e753f9ea0e1d842"
+    }
+  ]
+}

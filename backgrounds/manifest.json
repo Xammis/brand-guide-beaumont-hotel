@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "Official Beaumont Hotel Dropbox background collection",
+  "excluded_extensions": [
+    ".ai"
+  ],
+  "files": [
+    {
+      "source": "etch-bg-brown2.webp",
+      "path": "backgrounds/etch-bg-brown2.webp",
+      "bytes": 122876,
+      "sha256": "e592d566020222fb311469e18bd121abac8679776db0350de783fd058133a98b"
+    },
+    {
+      "source": "etch-bg-red2.webp",
+      "path": "backgrounds/etch-bg-red2.webp",
+      "bytes": 130238,
+      "sha256": "97f21953be51d0a480c2775cf951131a11dae9098ac089c181f9bf660293c13f"
+    },
+    {
+      "source": "etch-bg-source-small.pdf",
+      "path": "backgrounds/etch-bg-source-small.pdf",
+      "bytes": 2340545,
+      "sha256": "e95f41032263baff1b96741f6295e9c327c07a61b57284862821ee3415a378f5"
+    },
+    {
+      "source": "etch-bg-tan2.webp",
+      "path": "backgrounds/etch-bg-tan2.webp",
+      "bytes": 124200,
+      "sha256": "8274b9a7d2ec54d5adcbef27361c72c2b16b4a8cf14867216c8c13caab1433db"
+    },
+    {
+      "source": "etch-bg-white2.webp",
+      "path": "backgrounds/etch-bg-white2.webp",
+      "bytes": 106298,
+      "sha256": "d566093d9d87ab88caa5743a2f66fe5fc05c4596f9997bdc13c080409dec1181"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "source": "Beaumont public child theme: jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWUAtrIb-JH1g.woff2",
+      "path": "fonts/libre-franklin/libre-franklin-400.woff2",
+      "bytes": 25228,
+      "sha256": "2cdab88db7178e309d07d6cb5366acc93b0cc999ff803be3d8f77f0179f88692"
+    },
+    {
+      "source": "Beaumont public child theme: jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RNDJTedX1sGE.woff2",
+      "path": "fonts/libre-franklin/libre-franklin-400-italic.woff2",
+      "bytes": 27452,
+      "sha256": "63ee393e0f06634d21bd4f79a393b1435aca4b5ae533abf4874ddcfd2c36a0b5"
+    },
+    {
+      "source": "Beaumont public child theme: jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKUAtrIb-JH1g.woff2",
+      "path": "fonts/libre-franklin/libre-franklin-600.woff2",
+      "bytes": 25336,
+      "sha256": "d8de56eca935540ac85965a818ccc4b781106f58d8103c98a85329fd21bbc666"
+    },
+    {
+      "source": "Beaumont public child theme: jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKUAtrIb-JH1g.woff2",
+      "path": "fonts/libre-franklin/libre-franklin-700.woff2",
+      "bytes": 25440,
+      "sha256": "08e7ef673642b2b9bb25508bea417d70534c53c2ecd24ebb202a6ee9cdd6e5f1"
+    },
+    {
+      "source": "Official Dropbox fonts: BEBAS___-webfont.ttf",
+      "path": "fonts/1886-coffee/bebas-regular.ttf",
+      "bytes": 20048,
+      "sha256": "c6245faa75687bc7d3790e57b84bf384ef87559b7cb164420a10b0a36edb2639"
+    },
+    {
+      "source": "Official Dropbox fonts: MatchbookRegular.otf",
+      "path": "fonts/1886-coffee/matchbook-regular.otf",
+      "bytes": 40380,
+      "sha256": "f1e3da211e363bee6a5f9a8e3d89220db42913286a82996b81a39d8268175070"
+    }
+  ],
+  "note": "Noto Serif is named in the brand book for sparse tertiary use but was not supplied or loaded by the public site, so it is not bundled."
+}

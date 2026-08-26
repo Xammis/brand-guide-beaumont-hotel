@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "source": "Official Beaumont Hotel Dropbox icon collection",
+  "excluded_extensions": [
+    ".ai"
+  ],
+  "files": [
+    {
+      "source": "icons/Artboard 1@2x.png",
+      "path": "icons/arrow-red.png",
+      "bytes": 2239,
+      "sha256": "0d0edbe40e42fc27d9f855804688efad6b236a8c7fd65fdc436b952e43bbf771"
+    },
+    {
+      "source": "icons/Artboard 2@2x.png",
+      "path": "icons/phone-red.png",
+      "bytes": 3369,
+      "sha256": "e07f2531fd4bcdcf216513b5c58b6b209d38eed9140cd3a1fe6dd98f2ab2f751"
+    },
+    {
+      "source": "icons/Artboard 3@2x.png",
+      "path": "icons/location-red.png",
+      "bytes": 3647,
+      "sha256": "0b53fcbc35f35c044c0bd2127b186b78882f7dfcf9ee49ac4cda923d20e5c7c7"
+    },
+    {
+      "source": "icons/Artboard 5@2x.png",
+      "path": "icons/arrow-burgundy.png",
+      "bytes": 2377,
+      "sha256": "69f988fe4adc7dfc14cd7a07b4499e366304c5584172d892cd748fdab85105d7"
+    },
+    {
+      "source": "icons/Artboard 6@2x.png",
+      "path": "icons/phone-burgundy.png",
+      "bytes": 3531,
+      "sha256": "4209027b094690285d790288db879b99cac0619c9b5edfb43efac1397184964e"
+    },
+    {
+      "source": "icons/Artboard 7@2x.png",
+      "path": "icons/location-burgundy.png",
+      "bytes": 3828,
+      "sha256": "74712791b70ddb9704b3b8acdb138f05586f0842ec972ef88ac03f0f4c2982c7"
+    },
+    {
+      "source": "icons/Artboard 8@2x.png",
+      "path": "icons/arrow-white.png",
+      "bytes": 2147,
+      "sha256": "58fbdb7f5f0544f7b549b0617633a4bfa9e6671219cf67f388d32eccd97b02aa"
+    },
+    {
+      "source": "icons/Artboard 9@2x.png",
+      "path": "icons/phone-white.png",
+      "bytes": 3378,
+      "sha256": "3e78d6ba9d1be052294f09eb3e7f6d99f6d407aff667fe7f197d04619926718b"
+    },
+    {
+      "source": "icons/Artboard 10@2x.png",
+      "path": "icons/location-white.png",
+      "bytes": 3563,
+      "sha256": "73908c6f52adb1a41bbe06aaa9e79b9946f4c69956857884806f5c01e1ada586"
+    },
+    {
+      "source": "icons/Artboard 11@2x.png",
+      "path": "icons/arrow-tan.png",
+      "bytes": 2240,
+      "sha256": "d0a55880735cedc21189e181663caf5b265da9e7b8db848a5444eef3416c5e72"
+    },
+    {
+      "source": "icons/Artboard 12@2x.png",
+      "path": "icons/phone-tan.png",
+      "bytes": 3370,
+      "sha256": "94792722fb1a5ab9e6f52c1a053b6bbd0f2306ffc7adbffd2e543e15a84315bc"
+    },
+    {
+      "source": "icons/Artboard 13@2x.png",
+      "path": "icons/location-tan.png",
+      "bytes": 3629,
+      "sha256": "7445ae4d1fae499995f887d739d1bb360176033d8023d2a41e6e6f350c55258d"
+    },
+    {
+      "source": "icons/Artboard 14@2x.png",
+      "path": "icons/arrow-black.png",
+      "bytes": 2267,
+      "sha256": "49b7ecb7e3b07f48248d41eac3534bb8c0c226b43071d983ac9ded6af32f9f46"
+    },
+    {
+      "source": "icons/Artboard 15@2x.png",
+      "path": "icons/phone-black.png",
+      "bytes": 3584,
+      "sha256": "39de067cb839c1a358342d38537fc02517246cd8ff94672a20fe77545487b44a"
+    },
+    {
+      "source": "icons/Artboard 16@2x.png",
+      "path": "icons/location-black.png",
+      "bytes": 3662,
+      "sha256": "ffa8fb44559eaffe8f8a0944ed1976e5e1e0b75484751bc1d32279e2a32684d8"
+    }
+  ]
+}
