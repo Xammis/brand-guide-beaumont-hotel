@@ -5,11 +5,11 @@ license: Proprietary Beaumont Hotel brand standards and assets; bundled theme co
 compatibility: Works with Pi, Claude Code, Codex, and other Agent Skills-compatible harnesses.
 metadata:
   brand: Beaumont Hotel
-  version: "1.1"
+  version: "1.2"
   repository: https://github.com/Xammis/brand-guide-beaumont-hotel
 ---
 
-# Beaumont Hotel Brand Guide v1.1
+# Beaumont Hotel Brand Guide v1.2
 
 Use these standards for Beaumont Hotel, Beaumont Hotel • Spa • Events, Roosevelt's Tavern, 1886 Coffee, Spa at the Beaumont, and Events at the Beaumont artifacts.
 
@@ -190,8 +190,8 @@ Use the official raster files in [`backgrounds/`](backgrounds/).
 - Root horizontal padding: spacing 50.
 - Standard section padding pattern: generous spacing 40 or 50; `80px` top/bottom sections and `40px` internal separations recur on the public site.
 - Standard card/image radius: approximately `1.25rem`; use `1rem` for secondary compact surfaces.
-- Never nest boxes more than one level deep. A section may contain cards or panels, but a card or panel must not contain another styled card, panel, callout box, or boxed sub-surface.
-- Build hierarchy inside a card with typography, spacing, dividers, or unboxed groups—not another box.
+- Never nest boxes more than two levels deep. A section may contain a first-level card or panel, and that container may contain one second-level boxed sub-surface. A second-level box must not contain another styled card, panel, callout box, or boxed surface.
+- Beyond the second level, build hierarchy with typography, spacing, dividers, or unboxed groups—not another box.
 - Button radius remains smaller at `.33rem`.
 - Use spacing and subtle tone-on-tone surface contrast before adding shadows. Avoid diffuse decorative shadows.
 - Keep layouts responsive and free of horizontal overflow.
@@ -218,7 +218,7 @@ Use the official arrow, phone, and location PNGs in [`icons/`](icons/). Variants
 - Preserve all facts, caveats, and meaning.
 - Keep pages semantic, responsive, spacious, readable, and free of horizontal overflow.
 - Use only bundled official logo assets.
-- Never nest boxes more than one level deep.
+- Never nest boxes more than two levels deep.
 - Never use vector or multi-color backgrounds; keep container surfaces tone-on-tone within their section's color family.
 - Verify contrast and focus states.
 - Publish user-viewable HTML reports through the required verified Live Reports workflow.
