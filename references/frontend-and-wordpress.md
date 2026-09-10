@@ -99,8 +99,19 @@ Across 48 rendered public pages:
 - Child `theme.json` sets heading weight `600`, while the brand book calls for Libre Franklin Bold and deployed global CSS emits `700` for H1–H6.
 - Decision: use `700` for branded headings; reserve `600` for buttons, compact interface labels, and selected footer headings.
 
+## Approved layout revisions
+
+Guide version 1.1 adds owner-approved composition rules that supersede captured frontend patterns where necessary:
+
+- Container boxes may be nested only one level deep. Use typography, spacing, dividers, or unboxed groups for deeper hierarchy.
+- Vector background images are prohibited. Only approved raster background assets may be used digitally.
+- Multi-color, gradient, striped, split, banded, and segmented backgrounds are prohibited.
+- Every section must stay within one background color family. Child surfaces use subtle tone-on-tone shifts; a change of color family begins a separate full-width section.
+
+These are normative brand decisions rather than claims about the historical frontend capture.
+
 ## Remaining gaps and authentication recommendation
 
 No remaining gap materially affects this guide. Canonical public child-theme JSON, CSS, header/footer parts, public navigation content, rendered page blocks, and deployed global CSS supplied the required values.
 
-**Recommendation: do not authenticate for v1.0.** An application password or authenticated read-only REST session would expose editor registries, customized template records, and raw global-style records, but those would add implementation metadata rather than materially change the documented brand standards. Revisit authenticated reads only if a later task requires exact editor synchronization, template migration, or block-pattern portability.
+**Recommendation: do not authenticate for v1.1.** An application password or authenticated read-only REST session would expose editor registries, customized template records, and raw global-style records, but those would add implementation metadata rather than materially change the documented brand standards. Revisit authenticated reads only if a later task requires exact editor synchronization, template migration, or block-pattern portability.

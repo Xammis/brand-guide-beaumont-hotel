@@ -5,11 +5,11 @@ license: Proprietary Beaumont Hotel brand standards and assets; bundled theme co
 compatibility: Works with Pi, Claude Code, Codex, and other Agent Skills-compatible harnesses.
 metadata:
   brand: Beaumont Hotel
-  version: "1.0"
+  version: "1.1"
   repository: https://github.com/Xammis/brand-guide-beaumont-hotel
 ---
 
-# Beaumont Hotel Brand Guide v1.0
+# Beaumont Hotel Brand Guide v1.1
 
 Use these standards for Beaumont Hotel, Beaumont Hotel • Spa • Events, Roosevelt's Tavern, 1886 Coffee, Spa at the Beaumont, and Events at the Beaumont artifacts.
 
@@ -18,6 +18,8 @@ Use these standards for Beaumont Hotel, Beaumont Hotel • Spa • Events, Roose
 1. The April 2024 Beaumont brand book and official bundled assets govern identity, logo use, core colors, and typography.
 2. The Beaumont WordPress child theme and deployed public frontend govern digital details that the book does not specify, including sizes, spacing, buttons, links, and responsive patterns.
 3. When the checked-in child theme and deployed runtime differ, follow the official brand-book value for identity work and the deployed runtime for interactive behavior. The exceptions are called out below.
+
+Owner-approved absolute rules in this guide supersede historical website patterns and bundled source assets when they conflict.
 
 ## Logos
 
@@ -156,12 +158,18 @@ At viewport widths of `430px` and below, button blocks and links become full wid
 
 ## Backgrounds and Surface Use
 
-Use the official files in [`backgrounds/`](backgrounds/).
+Use the official raster files in [`backgrounds/`](backgrounds/).
 
 - Default page texture: [`etch-bg-white2.webp`](backgrounds/etch-bg-white2.webp), repeated at approximately `720px` tiles over White.
 - Primary branded surface: [`etch-bg-tan2.webp`](backgrounds/etch-bg-tan2.webp), repeated at approximately `720px` tiles.
 - Strong accent surface: [`etch-bg-red2.webp`](backgrounds/etch-bg-red2.webp).
 - Dark exception surface: [`etch-bg-brown2.webp`](backgrounds/etch-bg-brown2.webp), used sparingly.
+- Never use SVG, EPS, PDF, or any other vector image as a background. The bundled background PDF is a source/print asset, not a digital background.
+- Never use a multi-color background. No gradients, stripes, split-color panels, stacked color bands, or segmented color blocks within one section, card, or panel.
+- Keep every section within one color family. Any nested surface must use a subtle tone-on-tone shift: White to a barely contrasting light grey, Tan to Darker Tan, Red to Dark Red, or Brown to Dark Brown.
+- Do not place a Red or Brown box inside a White or Tan section merely to create contrast. When a new color family is needed, begin a separate full-width section.
+- Contrasting text, logos, buttons, icons, and small functional accents are permitted; this restriction applies to backgrounds and container surfaces.
+- Official etch textures are permitted because each stays within one color family.
 - Light and tan surfaces should dominate. Do not default to dark mode.
 - Ensure all text and controls meet practical contrast requirements.
 - Do not place a full-color light-background logo on a dark texture. Use its approved dark-background alternate.
@@ -182,8 +190,10 @@ Use the official files in [`backgrounds/`](backgrounds/).
 - Root horizontal padding: spacing 50.
 - Standard section padding pattern: generous spacing 40 or 50; `80px` top/bottom sections and `40px` internal separations recur on the public site.
 - Standard card/image radius: approximately `1.25rem`; use `1rem` for secondary compact surfaces.
+- Never nest boxes more than one level deep. A section may contain cards or panels, but a card or panel must not contain another styled card, panel, callout box, or boxed sub-surface.
+- Build hierarchy inside a card with typography, spacing, dividers, or unboxed groups—not another box.
 - Button radius remains smaller at `.33rem`.
-- Use spacing and textured/color contrast before adding shadows. Avoid diffuse decorative shadows.
+- Use spacing and subtle tone-on-tone surface contrast before adding shadows. Avoid diffuse decorative shadows.
 - Keep layouts responsive and free of horizontal overflow.
 
 ## Recurring Frontend Patterns
@@ -193,7 +203,7 @@ Use the official files in [`backgrounds/`](backgrounds/).
 - Red sections are high-emphasis moments, not the dominant page background.
 - Photo-led layouts use wide images, covers, two-column media/text blocks, and modest rounded corners.
 - Section eyebrows and compact headings are uppercase with noticeable tracking.
-- Alternating White, Tan, and occasional Red/Brown sections create hierarchy.
+- Alternating White, Tan, and occasional Red/Brown full-width sections may create hierarchy, but each section must remain internally tone-on-tone and use only one background color family.
 - Footer patterns use Tan texture, a `10px` Base Two top border, a vertical full-color logo, small navigation columns, and red social icons.
 
 ## Icons
@@ -208,6 +218,8 @@ Use the official arrow, phone, and location PNGs in [`icons/`](icons/). Variants
 - Preserve all facts, caveats, and meaning.
 - Keep pages semantic, responsive, spacious, readable, and free of horizontal overflow.
 - Use only bundled official logo assets.
+- Never nest boxes more than one level deep.
+- Never use vector or multi-color backgrounds; keep container surfaces tone-on-tone within their section's color family.
 - Verify contrast and focus states.
 - Publish user-viewable HTML reports through the required verified Live Reports workflow.
 
